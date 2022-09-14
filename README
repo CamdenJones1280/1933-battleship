@@ -1,0 +1,21 @@
+written by Camden Jones, JONE4307
+written by Logan Jackson, JACK1721
+
+Both wrote the program alone and compared when we met up. We each wrote the whole thing apart and then picked the most
+streamlined version of what we came up with.
+
+It is all compiled and run using intellij and their integrated interface.
+
+The only assumption we make going through is the person playing the game knows tha basic rules and what each of the
+power ups do.
+
+We did not really add anything special that sets this program apart besides denoting when a ship is sunk by an 'S'
+being displayed on the board for the player to see.
+
+We are unaware of any more bugs in our code at this time.
+
+”I certify that the information contained in this READMEfile is complete and accurate.  I have both read and followed
+ the course policies in the ’Academic Integrity - Course Policy’ section of the course syllabus.”
+
+ Camden Jones
+ Logan Jackson
